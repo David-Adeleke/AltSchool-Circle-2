@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.damilola {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.damilola img {
+  display: block;
+  width: 150px;
+  height: auto;
+}
