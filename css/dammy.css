@@ -1,0 +1,56 @@
+.profile-container {
+  display: flex;
+  gap: 50px;
+  padding: 20px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.profile-left-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 0 0 65%;
+  max-width: 65%;
+  box-sizing: border-box;
+}
+
+.profile-left-hero {
+  display: flex;
+  gap: 20px;
+}
+
+.profile-name {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.profile-name a {
+  text-decoration: none;
+  color: #848181;
+}
+
+.profile-name h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.profile-name p {
+  margin: 0;
+  color: #848181;
+}
+
+.profile-bio {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.profile-right {
+  display: flex;
+  flex: 0 0 30%;
+  max-width: 30%;
+  flex-direction: column;
+  gap: 20px;
+  box-sizing: border-box;
+}
