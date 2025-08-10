@@ -7,6 +7,7 @@
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 .damilola {
@@ -15,7 +16,7 @@ a {
   margin: 20px;
 }
 
-.damilola img {
+.damilola_img {
   display: block;
   width: 150px;
   height: auto;
