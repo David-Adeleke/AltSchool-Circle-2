@@ -11,7 +11,7 @@ a {
 }
 
 .damilola {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
   margin: 20px;
 }
@@ -19,5 +19,14 @@ a {
 .damilola_img {
   display: block;
   width: 150px;
+  height: auto;
+}
+.joseph {
+  display:inline-flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.joseph_pic {
+  width: 160px;
   height: auto;
 }
